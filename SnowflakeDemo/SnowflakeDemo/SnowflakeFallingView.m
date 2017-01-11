@@ -59,7 +59,7 @@
         return;
     }
     
-    //雪花的宽度
+    //雪花的宽度   // nihao
     int width = arc4random() % 20;
     while (width < 5) {
         width = arc4random() % 20;
