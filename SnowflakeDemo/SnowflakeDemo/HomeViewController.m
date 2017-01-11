@@ -29,7 +29,6 @@
     
     //开始下雪
     [snowflakeFallingView beginShow];
-    // hello 
     [self.view addSubview:snowflakeFallingView];
     // Do any additional setup after loading the view.
 }
